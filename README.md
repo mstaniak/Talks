@@ -3,7 +3,7 @@ Conference talks that I gave
 
 - 2018:
   * Będlewo: _Spitzer identity for Kendall random walk_ (in Polish) - short talk on probabilistic problems.
-  * Budapest: - a part of a workshop on interpretable machine learning with DALEX package and more during eRum 2018 conference. Includes exercises and R code.
+  * Budapest: _DALEX: Descriptive mAchine Learning EXplanations . Tools for exploration, validation and explanation of complex machine learning model_ - a part of a workshop on interpretable machine learning with DALEX package during eRum 2018 conference. This is the second part of the workshop, the first was given by [Przemysław Biecek](https://github.com/pbiecek/) Includes exercises and R code.
   * Warszawa: _Explaining single prediction_ - a part of a short workshop on interpretable machine learning during SER meeting.
  
 - 2017:
