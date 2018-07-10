@@ -1,7 +1,7 @@
 # Talks
 Conference talks that I gave
 
-2018:
+*2018*
   - Conference talks:
     * Vilnius: _Spitzer identity for Kendall random walk_ talk on Kendall random walks (probability theory) during IMS 2018 conference.
     * Wrocław: _DALEX: Descriptive mAchine Learning EXplanations . Tools for exploration, validation and explanation of complex machine learning model_ - full workshop on interpretable machine learning with DALEX package and its companion packages during Why R? 2018 conference.
@@ -18,11 +18,12 @@ Conference talks that I gave
   - Other:
     * Micro presentation during meeting in Munich on single prediction explainers 
 
-2017:
-  * Berlin: _Local interpretability of machine learning models_ 
-  * Warszawa: _Zawód rodzica a edukacja dziecka - wizualizacja wyników badań PISA_ (Parents' professions vs child's education - visualizing PISA study results)
-  * Debrecen: _Fluctuations of Kendall random walks_
-  * Delft: _Wiener-Hopf factorization for extremal Markovian sequences connected with the Kendall convolution_
-  * Poznań: _Sploty uogólnione w teorii prawdopodobieństwa_ (Generalized convolutions in probability theory)
+*2017*
+  - Conference talks:
+    * Berlin: _Local interpretability of machine learning models_ 
+    * Warszawa: _Zawód rodzica a edukacja dziecka - wizualizacja wyników badań PISA_ (Parents' professions vs child's education - visualizing PISA study results)
+    * Debrecen: _Fluctuations of Kendall random walks_
+    * Delft: _Wiener-Hopf factorization for extremal Markovian sequences connected with the Kendall convolution_
+    * Poznań: _Sploty uogólnione w teorii prawdopodobieństwa_ (Generalized convolutions in probability theory)
  
   
