@@ -3,6 +3,7 @@ Conference talks that I gave
 
 **2018**
   - Conference talks:
+    * Wrocław: _Local Interpretability of Machine Learning Models_ - talk given during the Joint meeting of the Italian Mathematical Union, the Italian Society of Industrial and Applied Mathematics and the Polish Mathematical Society in September.
     * Vilnius: _Spitzer identity for Kendall random walk_ talk on Kendall random walks (probability theory) during IMS 2018 conference.
     * Wrocław: _DALEX: Descriptive mAchine Learning EXplanations . Tools for exploration, validation and explanation of complex machine learning model_ - full workshop on interpretable machine learning with DALEX package and its companion packages during Why R? 2018 conference.
     * Będlewo: _Spitzer identity for Kendall random walk_ (in Polish) - short talk on probabilistic problems.
