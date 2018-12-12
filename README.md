@@ -19,6 +19,7 @@ Conference talks that I gave
 
   - Other:
     * Micro presentation during meeting in Munich on single prediction explainers 
+    * Presentation about IML & local explanations during Bioinformatics research group meeting at CenStat, Hasselt.
 
 **2017**
   - Conference talks:
