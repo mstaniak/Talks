@@ -1,6 +1,10 @@
 # Talks
 Conference talks that I gave
 
+**2019**
+-Conference talks:
+    * Kraków: _In Search of Interpretable Features to Explain Decisions of Black Box Models_ - a talk during the TFML 2019 conference at the Jagiellonian University.
+
 **2018**
   - Conference talks:
     * Stralsund: _DALEX: Descriptive mAchine Learning EXplanations . Tools for exploration, validation and explanation of complex machine learning model_ - keynote talk on the AG Dank meeting (working group of Gesellschaft für Klassifikation).
