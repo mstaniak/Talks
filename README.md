@@ -1,6 +1,9 @@
 # Talks
 Conference talks that I gave
 
+**2020**
+   - Workshop presentation during Wrocław R users meeting: [autoEDA](https://github.com/STWUR/WAMPIR-21-01-2020/blob/master/autoEDA%20STWUR.pdf)
+
 **2019**
    - Conference talks:
      * Kraków: _In Search of Interpretable Features to Explain Decisions of Black Box Models_ - a talk during the TFML 2019 conference at the Jagiellonian University (Kraków, Poland).
