@@ -9,6 +9,8 @@ Conference talks that I gave
      * Kraków: _In Search of Interpretable Features to Explain Decisions of Black Box Models_ - a talk during the TFML 2019 conference at the Jagiellonian University (Kraków, Poland).
      * Leuven: _Interpretable features for explaining machine learning models_ a talk during the ISCB40 conference in Leuven, Belgium.
      * Warsaw: _R Tools for Automated Exploratory Data Analysis_ a talk during the Why R? conference in Warsaw, Poland.
+   - Invited seminar talks:
+     * Ljubljana: _Interpretable Features for Local Explanations of Machine Learning Models_
      
      
 **2018**
